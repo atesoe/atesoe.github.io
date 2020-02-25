@@ -7,8 +7,11 @@ This is a list of resources I've found helpful to me while learning Japanese. (I
 * A very useful application: <https://foosoft.net/projects/yomichan/>
 
 ## Beginners:
+
 <details>
-  <summary>Hiragana and Katakana</summary>
+  
+   <summary>Hiragana and Katakana</summary>
+
 
 ## Hiragana:
 * An anki deck for hiragana: <https://ankiweb.net/shared/info/722065315>
@@ -20,6 +23,7 @@ This is a list of resources I've found helpful to me while learning Japanese. (I
 ## Katakana:
 * An anki deck for katakana: <https://ankiweb.net/shared/info/1678048485>
 * If you like to read: <https://www.tofugu.com/japanese/learn-katakana/>
+
 
 </details>
 
