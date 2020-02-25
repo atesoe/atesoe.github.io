@@ -7,7 +7,7 @@ This is a list of resources I've found helpful to me while learning Japanese. (I
 * A very useful application: <https://foosoft.net/projects/yomichan/>
 
 <details>
-  <summary>##Beginners</summary>
+  <summary>## Beginners</summary>
 
 ## Hiragana:
 * An anki deck for hiragana: <https://ankiweb.net/shared/info/722065315>
