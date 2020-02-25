@@ -6,8 +6,9 @@ This is a list of resources I've found helpful to me while learning Japanese. (I
 * The best dictionary: <https://jisho.org/>
 * A very useful application: <https://foosoft.net/projects/yomichan/>
 
+## Beginners:
 <details>
-  <summary>## Beginners</summary>
+  <summary>Hiragana and Katakana</summary>
 
 ## Hiragana:
 * An anki deck for hiragana: <https://ankiweb.net/shared/info/722065315>
