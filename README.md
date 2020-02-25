@@ -18,7 +18,7 @@
 * If you like to read: <https://www.tofugu.com/japanese/learn-katakana/>
 
 ## Kanji:
-* Pass JLPT N5-N3 decks from AnkiWeb
+* Pass JLPT N5-N3 decks from AnkiWeb >Search them from here: https://ankiweb.net/shared/decks/
 * If you want to learn what kanji is: <http://www.guidetojapanese.org/learn/complete/kanji>
 
 ## Vocabulary:
