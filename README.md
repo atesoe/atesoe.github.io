@@ -1,5 +1,5 @@
 # Atesoe's Compiled Resources
-
+This is a list of resources I've found helpful to me while learning Japanese. (If you're a beginner, I recommend you start with hiragana and the memrise course in the list below.)
 
 ## Essential tools:
 * Anki: <https://apps.ankiweb.net/> 
