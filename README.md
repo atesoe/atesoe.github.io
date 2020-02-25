@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Atesoe's Compiled Resources
 
-You can use the [editor on GitHub](https://github.com/atesoe/atesoe.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Essential tools:
+Anki: <https://apps.ankiweb.net/> 
+The best dictionary: <https://jisho.org/>
+A very useful application: <https://foosoft.net/projects/yomichan/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hiragana:
+An anki deck for hiragana: <https://ankiweb.net/shared/info/722065315>
+A video to help you write hiragana: <https://www.youtube.com/watch?v=wD3FJgij79c>
+A song to help you remember hiragana: <https://www.youtube.com/watch?v=OAYWzznNXf8>
+A quiz to test your hiragana: <https://kana.pro>
+If you like to read: <https://www.tofugu.com/japanese/learn-hiragana/>
 
-### Markdown
+Katakana:
+An anki deck for katakana: <https://ankiweb.net/shared/info/1678048485>
+If you like to read: <https://www.tofugu.com/japanese/learn-katakana/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Kanji:
+Pass JLPT N5-N3 decks from AnkiWeb
+If you want to learn what kanji is: <http://www.guidetojapanese.org/learn/complete/kanji>
 
-```markdown
-Syntax highlighted code block
+Vocabulary:
+Good if you're just getting started: <https://www.memrise.com/course/1036012/1000-most-common-japanese-words-with-audio/>
+Core 2k/6k Optimized Japanese Vocabulary: <https://mega.nz/#!QIQywAAZ!g6wRM6KvDVmLxq7X5xLrvaw7HZGyYULUkT_YDtQdgfU>
+Nayr's Core 5k: <https://mega.nz/#!dgZSwYzD!1ntDq0I_P-5s8sqnwyolXohH6HRvdUnde2jiQuBEL7U>
 
-# Header 1
-## Header 2
-### Header 3
+Grammar:
+Tae Kim's Grammar Guide: <http://www.guidetojapanese.org/grammar_guide.pdf>
+Bunpro: <https://www.bunpro.jp/>
 
-- Bulleted
-- List
+Other tools:
+The best translator: <https://miraitranslate.com/trial/>
+A fun way to practice listening comphrehension: <https://supernative.tv/ja/>
+OCR tool to help you read manga or visual novels: <https://www.kanjitomo.net/>
+Interesting method to learn common phrases: <https://www.clozemaster.com/>
+Offline dictionary: <https://www.tagaini.net/>
+A better alternative for Duolingo: <https://www.lingodeer.com/>
+Verb conjugation practice: <https://steven-kraft.com/projects/japanese/>
+If you really like to read a lot: <http://www.guidetojapanese.org/learn/complete/>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/atesoe/atesoe.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
