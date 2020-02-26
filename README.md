@@ -38,11 +38,11 @@ This is a list of resources I've found helpful to me while learning Japanese. (I
 
 
 ## Other tools:
-* The best translator: <https://miraitranslate.com/trial/>
-* A fun way to practice listening comphrehension: <https://supernative.tv/ja/>
-* OCR tool to help you read manga or visual novels: <https://www.kanjitomo.net/>
-* Interesting method to learn common phrases: <https://www.clozemaster.com/>
-* Offline dictionary: <https://www.tagaini.net/>
-* A better alternative for Duolingo: <https://www.lingodeer.com/>
-* Verb conjugation practice: <https://steven-kraft.com/projects/japanese/>
-* If you really like to read a lot: <http://www.guidetojapanese.org/learn/complete/>
+* [Mirai Translate](https://miraitranslate.com/trial/): A better alternative to Google Translate
+* [Supernative](https://supernative.tv/ja): A fun way to practice listening comphrehension
+* [KanjiTomo](https://www.kanjitomo.net): OCR tool to help you read manga or visual novels
+* [Clozemaster](https://www.clozemaster.com): Interesting method to learn common phrases
+* [Tagaini Jisho](https://www.tagaini.net): Offline dictionary with extra tools
+* [Lingodeer](https://www.lingodeer.com): A better alternative for Duolingo
+* [Steven Kraft's Japanese Projects](https://steven-kraft.com/projects/japanese: Verb conjugation practice
+* [Guide to Japanese](http://www.guidetojapanese.org/learn/complete): Comprehensive guide that discusses everything regarding learning Japanese
