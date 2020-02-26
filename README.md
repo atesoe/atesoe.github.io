@@ -7,16 +7,20 @@ This is a list of resources I've found helpful to me while learning Japanese. (I
 * [Jisho](https://jisho.org): The best online dictionary
 * [Yomichan](https://foosoft.net/projects/yomichan): Handy application that can be integrated with Anki
 
+## Kana
+* A quiz to test your hiragana: <https://kana.pro>
+* [Kana Pro](https://kana.pro): A place to quiz yourself about Hiragana or Katakana
+* [Kana Shooter](https://emp500.github.io/kanashooter): Empompom's Kana Shooter game to help you quiz in a fun way
 
-## Hiragana:
+
+### Hiragana:
 * An anki deck for hiragana: <https://ankiweb.net/shared/info/722065315>
 * A video to help you write hiragana: <https://www.youtube.com/watch?v=wD3FJgij79c>
 * A song to help you remember hiragana: <https://www.youtube.com/watch?v=OAYWzznNXf8>
-* A quiz to test your hiragana: <https://kana.pro>
 * If you like to read: <https://www.tofugu.com/japanese/learn-hiragana/>
 
 
-## Katakana:
+### Katakana:
 * An anki deck for katakana: <https://ankiweb.net/shared/info/1678048485>
 * If you like to read: <https://www.tofugu.com/japanese/learn-katakana/>
 
