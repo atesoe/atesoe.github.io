@@ -46,3 +46,4 @@ This is a list of resources I've found helpful to me while learning Japanese. (I
 * [Lingodeer](https://www.lingodeer.com): A better alternative for Duolingo
 * [Steven Kraft's Japanese Projects](https://steven-kraft.com/projects/japanese): Verb conjugation practice
 * [Guide to Japanese](http://www.guidetojapanese.org/learn/complete): Comprehensive guide for learning Japanese
+* [Marshall's Blog](https://marshallyin.com/): Has a lot of quizzes and resources
