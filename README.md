@@ -5,7 +5,7 @@ This is a list of resources I've found helpful to me while learning Japanese. (I
 ## Essential tools:
 * [Anki](https://apps.ankiweb.net) : Spaced repetition flashcards
 * [Jisho](https://jisho.org) : The best online dictionary
-* [Yomichan](https://foosoft.net/projects/yomichan) : A very useful application that can be integrated with Anki
+* [Yomichan](https://foosoft.net/projects/yomichan) : Handy application that can be integrated with Anki
 
 
 ## Hiragana:
