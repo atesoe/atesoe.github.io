@@ -38,7 +38,7 @@ This is a list of resources I've found helpful to me while learning Japanese. (I
 
 
 ## Other tools:
-* [Mirai Translate](https://miraitranslate.com/trial/): A better alternative to Google Translate
+* [Mirai Translate](https://miraitranslate.com/trial/): A better alternative for Google Translate
 * [Supernative](https://supernative.tv/ja): A fun way to practice listening comphrehension
 * [KanjiTomo](https://www.kanjitomo.net): OCR tool to help you read manga or visual novels
 * [Clozemaster](https://www.clozemaster.com): Interesting method to learn common phrases
