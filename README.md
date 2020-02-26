@@ -8,7 +8,6 @@ This is a list of resources I've found helpful to me while learning Japanese. (I
 * [Yomichan](https://foosoft.net/projects/yomichan): Handy application that can be integrated with Anki
 
 ## Kana
-* A quiz to test your hiragana: <https://kana.pro>
 * [Kana Pro](https://kana.pro): A place to quiz yourself about Hiragana or Katakana
 * [Kana Shooter](https://emp500.github.io/kanashooter): Empompom's Kana Shooter game to help you quiz in a fun way
 
