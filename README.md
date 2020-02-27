@@ -31,7 +31,7 @@ This is a list of resources I've found helpful to me while learning Japanese. (I
 
 ## Vocabulary:
 * Good if you're just getting started: <https://www.memrise.com/course/1036012/1000-most-common-japanese-words-with-audio/>
-* [Core 2k/6k Optimized Japanese Vocabulary](https://mega.nz/#!QIQywAAZ!g6wRM6KvDVmLxq7X5xLrvaw7HZGyYULUkT_YDtQdgfU): Has everything voided
+* [Core 2k/6k Optimized Japanese Vocabulary](https://mega.nz/#!QIQywAAZ!g6wRM6KvDVmLxq7X5xLrvaw7HZGyYULUkT_YDtQdgfU): Has everything voiced
 * [Nayr's Core 5k](https://mega.nz/#!dgZSwYzD!1ntDq0I_P-5s8sqnwyolXohH6HRvdUnde2jiQuBEL7U): Full of very natural sentences, everything voiced too
 
 
