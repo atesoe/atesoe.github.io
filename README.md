@@ -13,14 +13,14 @@ This is a list of resources I've found helpful to me while learning Japanese. (I
 
 
 ### Hiragana:
-* An anki deck for hiragana: <https://ankiweb.net/shared/info/722065315>
+* [Anki Deck for Hiragana](https://ankiweb.net/shared/info/722065315): With stroke diagrams and audio
 * A video to help you write hiragana: <https://www.youtube.com/watch?v=wD3FJgij79c>
 * A song to help you remember hiragana: <https://www.youtube.com/watch?v=OAYWzznNXf8>
 * If you like to read: <https://www.tofugu.com/japanese/learn-hiragana/>
 
 
 ### Katakana:
-* An anki deck for katakana: <https://ankiweb.net/shared/info/1678048485>
+* [Anki Deck for Katakana](https://ankiweb.net/shared/info/1678048485): With stroke diagrams and audio
 * If you like to read: <https://www.tofugu.com/japanese/learn-katakana/>
 
 
