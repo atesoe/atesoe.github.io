@@ -14,30 +14,29 @@ This is a list of resources I've found helpful to me while learning Japanese. (I
 
 ### Hiragana:
 * [Anki Deck for Hiragana](https://ankiweb.net/shared/info/722065315): With stroke diagrams and audio
-* A video to help you write hiragana: <https://www.youtube.com/watch?v=wD3FJgij79c>
-* A song to help you remember hiragana: <https://www.youtube.com/watch?v=OAYWzznNXf8>
-* If you like to read: <https://www.tofugu.com/japanese/learn-hiragana/>
-
+* [Video to help you write Hiragana](https://www.youtube.com/watch?v=wD3FJgij79c)
+* [Song to help you remember Hiragana](https://www.youtube.com/watch?v=OAYWzznNXf8)
+* [Tofugu Guide to Hiragana](https://www.tofugu.com/japanese/learn-hiragana): Includes mnemonics and everything you should need to know about Hiragana
 
 ### Katakana:
 * [Anki Deck for Katakana](https://ankiweb.net/shared/info/1678048485): With stroke diagrams and audio
-* If you like to read: <https://www.tofugu.com/japanese/learn-katakana/>
+* [Tofugu Guide to Katakana](https://www.tofugu.com/japanese/learn-katakana): Includes mnemonics and everything you should need to know about Katakana
 
 
 ## Kanji:
-* Pass JLPT N5-N3 decks from AnkiWeb <https://ankiweb.net/shared/decks/>
-* If you want to learn what kanji is: <http://www.guidetojapanese.org/learn/complete/kanji>
+* [Pass JLPT N5-N3 decks from AnkiWeb](https://ankiweb.net/shared/decks/): Search for Pass JLPT and download the wanted decks
+* [How to learn Kanji](https://www.tofugu.com/japanese/how-to-learn-kanji/): Includes different opinions on how to learn Kanji
 
 
 ## Vocabulary:
-* Good if you're just getting started: <https://www.memrise.com/course/1036012/1000-most-common-japanese-words-with-audio/>
-* [Core 2k/6k Optimized Japanese Vocabulary](https://mega.nz/#!QIQywAAZ!g6wRM6KvDVmLxq7X5xLrvaw7HZGyYULUkT_YDtQdgfU): Has everything voiced
-* [Nayr's Core 5k](https://mega.nz/#!dgZSwYzD!1ntDq0I_P-5s8sqnwyolXohH6HRvdUnde2jiQuBEL7U): Full of very natural sentences, everything voiced too
+* [1000 Most Common Japanese Words (Memrise)](https://www.memrise.com/course/1036012/1000-most-common-japanese-words-with-audio): Good if you're just getting started, no kanji
+* [Core 2k/6k Optimized Japanese Vocabulary](https://mega.nz/#!QIQywAAZ!g6wRM6KvDVmLxq7X5xLrvaw7HZGyYULUkT_YDtQdgfU): Essential deck, everything is voiced
+* [Nayr's Core 5k](https://mega.nz/#!dgZSwYzD!1ntDq0I_P-5s8sqnwyolXohH6HRvdUnde2jiQuBEL7U): Full of very natural sentences, everything voiced
 
 
 ## Grammar:
-* Tae Kim's Grammar Guide: <http://www.guidetojapanese.org/grammar_guide.pdf>
-* Bunpro: <https://www.bunpro.jp/>
+* [Tae Kim's Grammar Guide](http://www.guidetojapanese.org/grammar_guide.pdf): Your guide to Japanese grammar, filled with lots of information!
+* [Bunpro](https://www.bunpro.jp): A nice way to get grammar spoon-fed to you, although you do have to pay a little bit for it!
 
 
 ## Other tools:
