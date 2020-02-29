@@ -38,10 +38,16 @@ This is a list of resources I've found helpful to me while learning Japanese. (I
 * [Tae Kim's Grammar Guide](http://www.guidetojapanese.org/grammar_guide.pdf): Your guide to Japanese grammar, filled with lots of information!
 * [Bunpro](https://www.bunpro.jp): A nice way to get grammar spoon-fed to you, although you do have to pay a little bit for it!
 
+## Listening:
+* [Supernative](https://supernative.tv/ja): A fun way to practice listening comphrehension
+* [My Kikitori](http://mykikitori.com): Listening comprehension with quizzes, for beginner and low intermediate levels
+* [Erin's Challenge!](https://www.erin.ne.jp/en/): A really fun show to help improve your listening, although it does require flash player
+
+
+
 
 ## Other tools:
 * [Mirai Translate](https://miraitranslate.com/trial/): A better alternative for Google Translate
-* [Supernative](https://supernative.tv/ja): A fun way to practice listening comphrehension
 * [KanjiTomo](https://www.kanjitomo.net): OCR tool to help you read manga or visual novels
 * [Clozemaster](https://www.clozemaster.com): Interesting method to learn common phrases
 * [Tagaini Jisho](https://www.tagaini.net): Offline dictionary with extra tools
