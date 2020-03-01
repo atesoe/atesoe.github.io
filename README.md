@@ -42,8 +42,13 @@ This is a list of resources I've found helpful to me while learning Japanese. (I
 * [Supernative](https://supernative.tv/ja): A fun way to practice listening comphrehension
 * [My Kikitori](http://mykikitori.com): Listening comprehension with quizzes, for beginner and low intermediate levels
 * [Erin's Challenge!](https://www.erin.ne.jp/en/): A really fun show to help improve your listening, although it does require flash player
-
-
+* [Nihongo con Teppei: Easy](http://nihongoconteppei.com): Japanese podcast for beginners
+* [Nihongo con Teppei: Hard](http://teppeisensei.com): Japanese podcast for intermediate and up
+* [JLPT Stories](https://jlptstories.com/): Stories for all JLPT levels, has scripts and translations too
+* [Super Simple Japanese (YouTube)](https://www.youtube.com/user/supersimplejapanese/videos): A great channel full of Japanese children's songs to help improve your listening
+* [しずか先生の絵本ch (YouTube)](https://www.youtube.com/channel/UCydSw0qJc0w-QJsQHYZ6QLQ/videos): Channel full of Japanese children's books, with audio
+* [日本語の森 (YouTube)](https://www.youtube.com/user/freejapaneselessons3/videos): Great educational Japanese channel, from JLPT N5 to N1
+* [Sambon Juku (YouTube)](https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw/videos): A channel that talks about learning Japanese, in Japanese
 
 
 ## Other tools:
