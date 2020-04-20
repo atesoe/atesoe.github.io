@@ -45,18 +45,35 @@ This is a list of resources I've found helpful to me while learning Japanese. (I
 * [Nihongo con Teppei: Easy](http://nihongoconteppei.com): Japanese podcast for beginners
 * [Nihongo con Teppei: Hard](http://teppeisensei.com): Japanese podcast for intermediate and up
 * [JLPT Stories](https://jlptstories.com/): Stories for all JLPT levels, has scripts and translations too
+* [Bilingual News](https://bilingualnews.libsyn.com/): News podcast that is both in English and Japanese
 * [Super Simple Japanese (YouTube)](https://www.youtube.com/user/supersimplejapanese/videos): A great channel full of Japanese children's songs to help improve your listening
 * [しずか先生の絵本ch (YouTube)](https://www.youtube.com/channel/UCydSw0qJc0w-QJsQHYZ6QLQ/videos): Channel full of Japanese children's books, with audio
 * [日本語の森 (YouTube)](https://www.youtube.com/user/freejapaneselessons3/videos): Great educational Japanese channel, from JLPT N5 to N1
 * [Sambon Juku (YouTube)](https://www.youtube.com/channel/UC0ujXryUUwILURRKt9Eh7Nw/videos): A channel that talks about learning Japanese, in Japanese
+* [Yusuke](https://www.youtube.com/channel/UCcCeJ3pQYFgvfVuMxVRWhoA/videos): A channel about daily life in Japan, with subtitles
+* [FermiLab](https://www.youtube.com/channel/UC3-1iYGHfR43q_b974vUNYg/videos): A channel with Japanese comics, everything is voiced and has captions, for advanced learners
 
+## Reading:
+* [Free Bilingual Books](http://bilinguis.com/): Has a few books that you can read in Japanese and English, side by side
+* [Satori Reader](https://www.satorireader.com/): A site full of curated content to help you read, most things are locked behind a paywall though
 
-## Other tools:
+## Onomatopoeia
+* [Nihongoresources.com](https://github.com/Pomax/nihongoresources.com/blob/master/giongo.txt): Raw text file of Japanese onomatopoeia
+* [Sura Sura](http://sura-sura.com/): A Japanese website full of onomatopoeia and images to help you understand their meaning
+
+## Other tools and resources:
 * [Mirai Translate](https://miraitranslate.com/trial/): A better alternative for Google Translate
 * [KanjiTomo](https://www.kanjitomo.net): OCR tool to help you read manga or visual novels
 * [Clozemaster](https://www.clozemaster.com): Interesting method to learn common phrases
 * [Tagaini Jisho](https://www.tagaini.net): Offline dictionary with extra tools
 * [Lingodeer](https://www.lingodeer.com): A better alternative for Duolingo
 * [Steven Kraft's Japanese Projects](https://steven-kraft.com/projects/japanese): Verb conjugation practice
+* [Japanese Verbs](https://verbs.humberto.dev/): More verb conjugation practice
 * [Guide to Japanese](http://www.guidetojapanese.org/learn/complete): Comprehensive guide for learning Japanese
 * [Marshall's Blog](https://marshallyin.com/): Has a lot of quizzes and resources
+* [Kanji Flashcards Online](https://kanji.fluentcards.com/): Nothing too fancy, give it a try for fun
+* [Free Kanji Posters](http://www.henoida.com/get-a-free-kanji-poster-for-jlpt-study/): Posters for you to print out in A4 size
+* [Japanese Level UP](https://japaneselevelup.com/difficulty-level-guide-everything-japanese): Great resource to figure out what kind of material to read or watch based on your level
+
+
+
