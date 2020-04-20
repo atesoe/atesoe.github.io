@@ -58,7 +58,7 @@ This is a list of resources I've found helpful to me while learning Japanese. (I
 * [Satori Reader](https://www.satorireader.com/): A site full of curated content to help you read, most things are locked behind a paywall though
 
 ## Onomatopoeia
-* [Nihongoresources.com](https://github.com/Pomax/nihongoresources.com/blob/master/giongo.txt): Raw text file of Japanese onomatopoeia
+* [Nihongoresources](https://github.com/Pomax/nihongoresources.com/blob/master/giongo.txt): Raw text file full of Japanese onomatopoeia
 * [Sura Sura](http://sura-sura.com/): A Japanese website full of onomatopoeia and images to help you understand their meaning
 
 ## Other tools and resources:
