@@ -24,7 +24,9 @@ This is a list of resources I've found helpful to me while learning Japanese. (I
 
 
 ## Kanji:
-* [Pass JLPT N5-N3 decks from AnkiWeb](https://ankiweb.net/shared/decks/): Search for Pass JLPT and download the wanted decks
+* [Pass JLPT N5 from AnkiWeb](https://ankiweb.net/shared/info/1142282583): N5 Kanji deck for Anki
+* [Pass JLPT N4 from AnkiWeb](https://ankiweb.net/shared/info/431671556): N4 Kanji deck for Anki
+* [Pass JLPT N3 from AnkiWeb](https://ankiweb.net/shared/info/1931773451): N3 Kanji deck for Anki
 * [How to learn Kanji](https://www.tofugu.com/japanese/how-to-learn-kanji/): Includes different opinions on how to learn Kanji
 
 
@@ -57,7 +59,7 @@ This is a list of resources I've found helpful to me while learning Japanese. (I
 * [Free Bilingual Books](http://bilinguis.com/): Has a few books that you can read in Japanese and English, side by side
 * [Satori Reader](https://www.satorireader.com/): A site full of curated content to help you read, most things are locked behind a paywall though
 
-## Onomatopoeia
+## Onomatopoeia:
 * [Nihongoresources](https://github.com/Pomax/nihongoresources.com/blob/master/giongo.txt): Raw text file full of Japanese onomatopoeia
 * [Sura Sura](http://sura-sura.com/): A Japanese website full of onomatopoeia and images to help you understand their meaning
 
@@ -74,6 +76,11 @@ This is a list of resources I've found helpful to me while learning Japanese. (I
 * [Kanji Flashcards Online](https://kanji.fluentcards.com/): Nothing too fancy, give it a try for fun
 * [Free Kanji Posters](http://www.henoida.com/get-a-free-kanji-poster-for-jlpt-study/): Posters for you to print out in A4 size
 * [Japanese Level UP](https://japaneselevelup.com/difficulty-level-guide-everything-japanese): Great resource to figure out what kind of material to read or watch based on your level
+
+## 英語のコース:
+* [Anki](https://apps.ankiweb.net): 不可欠なアプリ
+* [Ankiのデック](https://ankiweb.net/shared/info/1503073102): 単語のために
+
 
 
 
