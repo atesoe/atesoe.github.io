@@ -12,6 +12,7 @@ body {
 	background-color: #222;
 	color: white;
 	text-align: center;
+	background: linear-gradient(#4e4e43, #313131);
 }
 
 .simple-container {
