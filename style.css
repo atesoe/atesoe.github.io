@@ -9,10 +9,9 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	line-height: 1.75em;
 	font-size: 14px;
-	background-color: #222;
 	color: white;
 	text-align: center;
-	background: linear-gradient(#4e4e43, #313131);
+	background: linear-gradient(#222, #313131);
 }
 
 .simple-container {
