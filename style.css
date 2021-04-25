@@ -69,7 +69,7 @@ hr {
 }
 
 a[href] {
-	color: #1e8ad6;
+	color: #ffcc00;
 }
 
 a[href]:hover {
@@ -83,4 +83,18 @@ img {
 li {
 	line-height: 1.5em;
 }
+
+aside,
+[class *= "sidebar"],
+[id *= "sidebar"] {
+	max-width: 90%;
+	margin: 0 auto;
+	border: 1px solid lightgrey;
+	padding: 5px 15px;
+}
+
+@media (min-width: 1921px) {
+	body {
+		font-size: 18px;
+	}
 }
