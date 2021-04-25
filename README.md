@@ -80,10 +80,3 @@ This is a list of resources I've found helpful to me while learning Japanese. (I
 ## 英語のコース:
 * [Anki](https://apps.ankiweb.net): 不可欠なアプリ
 * [Ankiのデック](https://ankiweb.net/shared/info/1503073102): 単語のために
-
-
-
-
-
-
-
